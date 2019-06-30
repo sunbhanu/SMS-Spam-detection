@@ -12,7 +12,7 @@ It contains 5,574 SMS labeled with the ham (legitimate) category or with the spa
 Logistic Regression
 
 # Result
-### Accuracy scodre = 0.9802690582959641
+### Accuracy score = 0.9802690582959641
 
 # Used Library
 
